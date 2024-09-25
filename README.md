@@ -42,13 +42,14 @@ https://arxiv.org/abs/2310.00259
 
 **8. code/multi_ref_construct.py: for multiple sampled references collection**<br>
 
-## 收集到的数据 - Datasets
+## 收集到的数据 Collected Datasets
 **1. dataset/fact-checking datasets dir: existing fact-checking datasets used for reference generation in AutoHall***
 **2. other dirs in dataset/ dir: collected hallucination datasets**
 
-## 论文总结 - Summary of this paper
+## 论文总结 Summary of this Paper
 ### Automated Hallucination Dataset Generation Pipeline
-![datasets](https://github.com/user-attachments/assets/525be22c-a395-424f-8f86-653aad5c996c)
+![datasets](https://github.com/user-attachments/assets/513b561d-a74a-44d4-afe3-6bbfba257714)
+
 
 ### Hallucination Detection Method
 ![detection](https://github.com/user-attachments/assets/bb0d6a7a-9c2d-4d70-a369-ab5f6df6c5ad)
