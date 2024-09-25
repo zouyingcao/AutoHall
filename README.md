@@ -32,7 +32,7 @@ https://arxiv.org/abs/2310.00259
 
 **3. code/analyse.py: some codes for testing**<br>
 
-**4. code/baselines.ipynb: analyse the baseline models' experimental results**<br>
+**4. code/baselines.ipynb: analyse experimental results from the baselines**<br>
 
 **5. code/cal_result.py: analyse the proportion of hallucination**<br>
 
@@ -43,7 +43,7 @@ https://arxiv.org/abs/2310.00259
 **8. code/multi_ref_construct.py: for multiple sampled references collection**<br>
 
 ## 收集到的数据 Collected Datasets
-**1. dataset/fact-checking datasets dir: existing fact-checking datasets used for reference generation in AutoHall***
+**1. dataset/fact-checking datasets dir: existing fact-checking datasets used for reference generation in AutoHall**
 **2. other dirs in dataset/ dir: collected hallucination datasets**
 
 ## 论文总结 Summary of this Paper
