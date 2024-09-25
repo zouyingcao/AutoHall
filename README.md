@@ -48,10 +48,10 @@ https://arxiv.org/abs/2310.00259
 
 ## 论文总结 Summary of this Paper
 ### Automated Hallucination Dataset Generation Pipeline
-![datasets](https://github.com/zouyingcao/AutoHall/blob/main/datasets.jpg)
+![datasets](https://github.com/zouyingcao/AutoHall/blob/main/datasets.png)
 
 
 ### Hallucination Detection Method
-![detection](https://github.com/zouyingcao/AutoHall/blob/main/detection.jpg)
+![detection](https://github.com/zouyingcao/AutoHall/blob/main/detection.png)
 
 
